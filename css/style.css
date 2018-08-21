@@ -46,7 +46,7 @@ textarea{
     color: #26a69a;
 }
 #rest{
-    background-image: url(/images/576295_d323610cb4fb4b1d969b5431a9ddebbc-mv2.jpg);
+    //background-image: url(./images/576295_d323610cb4fb4b1d969b5431a9ddebbc-mv2.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
@@ -321,7 +321,7 @@ h6 {
         margin-left: 30px;
     }
     #rest{
-    background-image: url(/images/576295_d323610cb4fb4b1d969b5431a9ddebbc-mv2.jpg);
+    //background-image: url(./images/576295_d323610cb4fb4b1d969b5431a9ddebbc-mv2.jpg);
     background-repeat: no-repeat;
     background-position:center 0;
     background-attachment:scroll;
