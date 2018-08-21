@@ -1,0 +1,24 @@
+{
+  "name": "#Metamorfosis",
+  "short_name": "#Metamorfosis",
+  "description": "Bienvenid@s a Metamorfosis",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icono_favicon2.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./icono_favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
